@@ -4,7 +4,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 
 
-/// comiler
+---> compile
 npm install
 
 npm i dotenv
