@@ -9,7 +9,7 @@ npm install
 
 npm i dotenv
 
-npx hardhat compolie
+npx hardhat compile
 
 
 npm hardhat test
