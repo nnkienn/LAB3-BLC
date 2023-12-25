@@ -21,4 +21,4 @@ npx hardhat run --network rinkeby scripts/deploy.js
 
 -> import token address in your metamask
 
--> use sopolie testnet
+-> use sepolia testnet
